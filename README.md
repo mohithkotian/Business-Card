@@ -1,1 +1,1 @@
-You can check it out here -->card-bcs.netlify.app
+You can check it out here -->bcs-business-card.netlify.app
