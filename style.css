@@ -1,0 +1,39 @@
+/* .container{
+    for spaceing in btw the 2 flex box my method
+    margin: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+} */
+
+body {
+    font-family: cursive;
+    margin: 20px;
+}
+
+.bob-img {
+  width: 150px;
+  border: 15px solid #ba181b;
+}
+
+.card {
+  width: 400px;
+  margin: 0px auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color: #ffd000;
+  color: #420c14;
+  border-bottom: 5px inset #ba181b ;
+  border-top: 5px solid #ba181b;
+  border-right:10px solid #420c14;
+  border-left: 10px solid #420c14;
+}
+.border{
+    padding: 5px;
+}
+.bcs{
+    color: hwb(55 0% 0%);
+    background-color: #ff5400;
+}
